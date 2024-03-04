@@ -18,3 +18,26 @@ body {
     text-align: center;
     padding: -10px;
   }
+
+  .social-media {
+    margin-top: 15px;
+  }
+
+  .social-media a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+.social-media p {
+    font-size: 14px;
+}
+
+.social-media a:hover {
+    color: #ccc;
+}
+
+.social-icon{
+    width: 30px;
+    height: 30px;
+}
